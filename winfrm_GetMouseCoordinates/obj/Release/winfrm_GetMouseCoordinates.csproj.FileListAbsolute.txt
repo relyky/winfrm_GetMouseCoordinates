@@ -1,0 +1,8 @@
+D:\MyProject\winfrm_GetMouseCoordinates\winfrm_GetMouseCoordinates\bin\Release\winfrm_GetMouseCoordinates.exe.config
+D:\MyProject\winfrm_GetMouseCoordinates\winfrm_GetMouseCoordinates\bin\Release\winfrm_GetMouseCoordinates.exe
+D:\MyProject\winfrm_GetMouseCoordinates\winfrm_GetMouseCoordinates\bin\Release\winfrm_GetMouseCoordinates.pdb
+D:\MyProject\winfrm_GetMouseCoordinates\winfrm_GetMouseCoordinates\obj\Release\winfrm_GetMouseCoordinates.Form1.resources
+D:\MyProject\winfrm_GetMouseCoordinates\winfrm_GetMouseCoordinates\obj\Release\winfrm_GetMouseCoordinates.Properties.Resources.resources
+D:\MyProject\winfrm_GetMouseCoordinates\winfrm_GetMouseCoordinates\obj\Release\winfrm_GetMouseCoordinates.csproj.GenerateResource.Cache
+D:\MyProject\winfrm_GetMouseCoordinates\winfrm_GetMouseCoordinates\obj\Release\winfrm_GetMouseCoordinates.exe
+D:\MyProject\winfrm_GetMouseCoordinates\winfrm_GetMouseCoordinates\obj\Release\winfrm_GetMouseCoordinates.pdb
